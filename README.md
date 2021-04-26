@@ -1,2 +1,2 @@
-# edenpixel.com
-The website of Eden Pixel
+# The Website of Eden Pixl
+This is the public repository for the website of sci-fi writer Eden Pixel, the pseudonym of Thomas De Moor. The entire website is hand-coded in an attempt to learn HTML/CSS/JS while simultaneously writing a sci-fi story in public.
