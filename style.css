@@ -24,6 +24,38 @@ header {
     border-bottom: 2px solid #54565B;
 }
 
+figcaption {
+    margin-top: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+table {
+    margin: 20px 0 20px 0;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border-spacing: 15px;
+}
+
+th, td {
+    border: 1px solid #c9c7c6;
+    text-align: center;
+    padding: 10px;
+}
+
+article {
+    margin-bottom: 25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 /* Properties for larger screens */
 
 @media screen and (min-width: 700px) {
