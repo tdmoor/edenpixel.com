@@ -49,12 +49,17 @@ article {
     margin-bottom: 25px;
 }
 
+img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
 
 /* Properties for larger screens */
 
