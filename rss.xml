@@ -4,11 +4,12 @@
         <title>Eden Pixel | Scifi writer</title>
         <description>Eden Pixel is writing a hard scifi story in public. This blog is where he learns in public and shares his process.</description>
         <link>https://www.edenpixel.com/index.html</link>
+        <language>en-US</language>
         <item>
             <title>Distance in space</title>
             <description>How do astronomers measure distance in space? This blog post is a brief explainer of the speed of light, the astronomical unit, the light-year, and parsec.</description>
             <link>https://www.edenpixel.com/blog/distance-in-space.html</link>
-            <pubDate>28 April 2021</pubDate>
+            <pubDate>Wed, 28 April 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
